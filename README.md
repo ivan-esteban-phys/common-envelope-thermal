@@ -8,7 +8,7 @@ You will need
 * `gcc`, or other C compiler
 * `numpy`
 * `scipy`
-* `pyMesaUtils`, the Python interface to the MESA astrophysics library. Available in https://github.com/rjfarmer/pyMesa
+* `pyMesa`, the Python interface to the MESA astrophysics library. Available in https://github.com/rjfarmer/pyMesa
 * `pynucastro`, a nuclear astrophysics library. It can be installed running `pip install pynucastro`
 
 ## Basic usage
