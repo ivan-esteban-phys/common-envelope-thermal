@@ -1,7 +1,7 @@
 # common-envelope-thermal
 This code computes the thermal neutrino spectrum produced in neutron-star common-envelope accretion. For simplicity, it only includes the dominant contribution from positron annihilation.
 
-For information on the physics, see the companion paper [arXiv:2311.xxxxx](https://arxiv.org/abs/2311.xxxxx). All formulae used in the code are explicitly written and explained in the Supplemental Material of that paper. Please cite it if you use this code.
+For information on the physics, see the companion paper [arXiv:2310.19868](https://arxiv.org/abs/2310.19868). All formulae used in the code are explicitly written and explained in the Supplemental Material of that paper. Please cite it if you use this code.
 
 ## Prerequisites
 You will need
